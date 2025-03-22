@@ -1,0 +1,13 @@
+{
+	"id": "starryhorizons",
+	"name": "Starry Horizons",
+	"display_name": "Starry Horizons",
+	"author": ["Teakzc"],
+	"description": "Blatro content",
+	"prefix": "starz",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "",
+	"badge_text_colour": "",
+	"version": "1"
+}
